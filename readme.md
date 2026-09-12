@@ -1,5 +1,7 @@
 # Inkscape Color Palettes
 
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/gauravtiwari)
+
 A curated collection of color palettes for Inkscape and GIMP. These palettes use the standard GIMP Palette format (`.gpl`) which is compatible with both applications.
 
 ## Available Palettes
@@ -117,6 +119,16 @@ Contributions are welcome! To add a new palette:
 - [Inkscape Official Website](https://inkscape.org/)
 - [Material Design Color System](https://material.io/design/color/)
 - [GIMP Palette Documentation](https://docs.gimp.org/en/gimp-concepts-palettes.html)
+
+## Support This Project
+
+You get 3 free .gpl palettes here that load in both Inkscape and GIMP, including the complete Google Material Design colors and a 15-color set for Android icons. I also wrote install steps for Linux, macOS, Windows and GIMP so the files land in the right palettes folder.
+
+If one of the Material Design palettes saved you from copying hex codes into Inkscape one at a time, you can buy me a coffee.
+
+<a href="https://buymeacoffee.com/gauravtiwari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" height="50"></a>
+
+A star tells me the palettes are useful, and a pull request that adds a missing palette or corrects a wrong color value is even better.
 
 ## License
 
